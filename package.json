@@ -1,5 +1,5 @@
 {
-  "name": "em-react-spin",
+  "name": "@eventmobi/react-spin",
   "version": "0.6.2",
   "description": "A React component wrapper for spin.js",
   "main": "lib/main.js",
